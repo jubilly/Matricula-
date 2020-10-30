@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 18px;
+}
+#header{
+    border: 1px solid #000000;
+    background: #ffffff;
+    text-align: center;
+}
+#postagem{
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+button {
+    border: 0;
+    padding: 10px 8px;
+    font-weight: bolder;
+    background: #108A93;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius:3px;
+    font-size: 18px;
+    font: bold;
+}
+#reprovado{
+    background: #ff0000;
+    font: 18px #000000;
+}
